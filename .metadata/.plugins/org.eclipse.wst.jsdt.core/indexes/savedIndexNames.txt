@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+C:\Users\naris\DWC\programing\Java_practice\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+878170342.index
+3333163441.index
+816810477.index
+2388387423.index
+3789866773.index
+2496414909.index
+1048350443.index
+581174387.index
+756388268.index
+2594031532.index
+3051551253.index
